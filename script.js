@@ -33,7 +33,7 @@ const products = [
         id: 4,
         name: "笔记本电脑",
         price: 5999,
-        image: "https://static.asus.com.cn/bbcimages/seller/goods/C4lGctxL1SYpNXmyEPo.jpg?bindId=4172?x-oss-process=image/resize,w_300,h_300",
+        image: "https://ts1.tc.mm.bing.net/th/id/R-C.2e7b5e3b426ca1da4206514a58ff2e68?rik=sCdbejENSr3lyA&riu=http%3a%2f%2fpro-img.zuyushop.com%2fProPic%2f201711%2f201711001104236726.jpg&ehk=fd5%2bDsLrde%2beWjWArotcPWMEh4jU6VNzL%2fpD1fMO3t0%3d&risl=&pid=ImgRaw&r=0",
         description: "轻薄便携笔记本电脑，高性能处理器，长续航时间。",
         category: "电子产品"
     },
@@ -1889,4 +1889,5 @@ function initAllFeatures() {
 init();
 
 // 页面加载完成后初始化所有功能
+
 initAllFeatures();
